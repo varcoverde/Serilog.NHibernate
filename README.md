@@ -1,0 +1,2 @@
+# Serilog.NHibernate
+Serilog.NHibernate
